@@ -1,0 +1,14 @@
+layout_spectrum: 0.9946237
+color:
+  saturation: 0.9808731
+  brandStrength: 1
+  lightness: 0.2264038
+  brandColors:
+    - '#0E0E0E'
+    - '#D3D3D3'
+    - '#454545'
+    - '#747474'
+    - '#A5A5A5'
+  rhythmicContrast: 0.9504181
+typography_spectrum: 0.4366786
+name: Of Henry
