@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.4378733
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#0E0E0E'
     - '#D3D3D3'
     - '#454545'
     - '#747474'
     - '#A5A5A5'
-  rhythmicContrast: 1
+  lightness: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.6529271
+typography_spectrum: 0.4378733
 name: Of Henry
